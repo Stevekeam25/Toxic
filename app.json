@@ -1,5 +1,5 @@
 {
-  "name": "BERA TECH",
+  "name": "Toxic",
   "description": "I am BERA TECH WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
   "logo": "https://files.catbox.moe/waszph.jpg",
   "keywords": ["BERA-TECH", "whatsapp-bot", "whatsapp-md-bot"],
@@ -7,7 +7,7 @@
   "stack": "container",
   "env": { 
     "SESSION_ID": {
-      "description": "Ensure your session Id starts with the word TREX-MD$",
+      "description": " TREX-MD$BERA-TECH$a4sz7mjL",
       "required": true,
       "value": ""
     },
@@ -22,12 +22,12 @@
       "value": "."
     },
     "OWNER_NAME": {
-      "description": "Your name as the bot owner",
+      "description": "steve",
       "required": false,
       "value": "BRUCE BERA"
     },
     "OWNER_NUMBER": {
-      "description": "Your WhatsApp number",
+      "description": "254757661725",
       "required": false,
       "value": "254743982206"
     },
